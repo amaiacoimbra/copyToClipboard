@@ -13,11 +13,11 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #202024;
+    background-color: #18181b;
 }
 
 h3 {
-    color: white;
+    color: rgb(245, 240, 240);
 }
 
 input {
